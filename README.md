@@ -4,6 +4,8 @@ A Java Swing puzzle game developed as part of my Year 1 coursework for the BSc (
 
 The goal is to move and stack snowballs to build the required snowmen while avoiding invalid moves and losing pieces from the board.
 
+![Snow Problem gameplay](snow-problem-game.jpg)
+
 ## Features
 
 - Multiple puzzle levels with increasing difficulty
@@ -41,6 +43,7 @@ The goal is to move and stack snowballs to build the required snowmen while avoi
 │       ├── model/
 │       └── ui/
 ├── resources/
+├── snow-problem-game.jpg
 ├── .gitignore
 └── README.md
 ```

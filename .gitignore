@@ -1,0 +1,15 @@
+# Java build output
+out/
+*.class
+
+# Local game data
+highscores.properties
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
